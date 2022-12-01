@@ -30,6 +30,10 @@ La minification javascript, également connue sous le nom de minimisation, est l
 ## SonarQube
 SonarQube est un logiciel libre de qualimétrie en continu de code. Il nous aide à la détection, la classification et la résolution de défaut dans le code source, permet d'identifier les duplications de code, de mesurer le niveau de documentation et connaître la couverture de test déployée.
 
+## Clair Scan 
+clair est un projet open source pour l'analyse statique des vulnérabilités dans les conteneurs d'applications (incluant actuellement OCI et docker).
+Les clients utilisent l'API de Clair pour indexer leurs images de conteneurs et peuvent ensuite les comparer aux vulnérabilités connues.
+
 
 
 

@@ -24,8 +24,12 @@ Ces éléments ne sont pas nécessaires pour que le CSS soit utilisé avec succ�
 JSLint est un programme JavaScript qui recherche les problèmes dans les programmes JavaScript. C'est un outil de qualité de code.
 ### JavaScript Validator
 Validation du JavaScript c'est la vérification de variables non déclarées, de points-virgules manquants et de fuites de mémoire potentielles, et réduction des fichiers JavaScript volumineux.
+### Minify javascript
+La minification javascript, également connue sous le nom de minimisation, est le processus consistant à supprimer tous les caractères inutiles du code source JavaScript sans en altérer la fonctionnalité. Cela inclut la suppression des espaces blancs, des commentaires et des points-virgules, ainsi que l'utilisation de noms de variables et de fonctions plus courts.
+
 ## SonarQube
 SonarQube est un logiciel libre de qualimétrie en continu de code. Il nous aide à la détection, la classification et la résolution de défaut dans le code source, permet d'identifier les duplications de code, de mesurer le niveau de documentation et connaître la couverture de test déployée.
+
 
 
 
